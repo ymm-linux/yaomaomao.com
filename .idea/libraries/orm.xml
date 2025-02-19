@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="orm">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/javascript/110-nodejs/70-web/20-database/20-orm/orm.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

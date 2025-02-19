@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-web-mvc-rest">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/40-web/20-rest/spring-web-mvc-rest.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

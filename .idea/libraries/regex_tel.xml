@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="regex-tel">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/120-reg-exp/20-match-rules/regex-tel.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

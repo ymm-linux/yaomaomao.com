@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-data-tx">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/30-database/20-declarative-tx/spring-data-tx.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

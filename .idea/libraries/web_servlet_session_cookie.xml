@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="web-servlet-session-cookie">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/210-web/40-servlet-adv/20-session-cookie/web-servlet-session-cookie.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

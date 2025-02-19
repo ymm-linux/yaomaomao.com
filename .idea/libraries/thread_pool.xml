@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="thread-pool">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/140-threading/70-pool/thread-pool.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

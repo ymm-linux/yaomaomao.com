@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="maven-hello">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/150-maven/20-dependency/maven-hello.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="web-filter-signature">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/210-web/80-filter/10-request/web-filter-signature.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

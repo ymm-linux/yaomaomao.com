@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="xml-sax">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/170-xml-json/30-sax/xml-sax.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

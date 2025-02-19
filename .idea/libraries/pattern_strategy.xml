@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="pattern-strategy">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/30-behavioral/90-strategy/pattern-strategy.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

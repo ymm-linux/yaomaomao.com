@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="thread-multi">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/140-threading/20-new-thread/thread-multi.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

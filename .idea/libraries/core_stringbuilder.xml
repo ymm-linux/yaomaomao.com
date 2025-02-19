@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="core-stringbuilder">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/30-oop/20-core/20-string-builder/core-stringbuilder.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

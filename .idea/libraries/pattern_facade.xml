@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="pattern-facade">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/20-structural/50-facade/pattern-facade.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-web-mvc-websocket">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/40-web/80-websocket/spring-web-mvc-websocket.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

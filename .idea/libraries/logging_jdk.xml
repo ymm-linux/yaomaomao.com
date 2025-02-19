@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="logging-jdk">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/40-exception/70-jdk-logging/logging-jdk.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

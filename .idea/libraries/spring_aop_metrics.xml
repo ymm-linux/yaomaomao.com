@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-aop-metrics">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/20-aop/20-annotation-config/spring-aop-metrics.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

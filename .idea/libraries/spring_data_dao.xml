@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-data-dao">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/30-database/30-dao/spring-data-dao.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="network-pop3">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/160-network/50-receive-email/network-pop3.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

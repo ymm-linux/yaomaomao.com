@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="web-servlet-redirect-forward">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/210-web/40-servlet-adv/10-redirect-forward/web-servlet-redirect-forward.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

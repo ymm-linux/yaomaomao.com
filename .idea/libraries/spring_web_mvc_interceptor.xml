@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-web-mvc-interceptor">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/40-web/40-interceptor/spring-web-mvc-interceptor.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

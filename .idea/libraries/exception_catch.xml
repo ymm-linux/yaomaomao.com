@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="exception-catch">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/40-exception/20-catch-exception/exception-catch.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

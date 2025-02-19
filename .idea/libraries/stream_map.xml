@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="stream-map">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/190-functional/30-stream/20-map/stream-map.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

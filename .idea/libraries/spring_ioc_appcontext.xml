@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-ioc-appcontext">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/10-ioc/20-injection/spring-ioc-appcontext.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

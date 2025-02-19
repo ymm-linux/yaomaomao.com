@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-ioc-annoconfig">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/10-ioc/30-annotation-config/spring-ioc-annoconfig.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
