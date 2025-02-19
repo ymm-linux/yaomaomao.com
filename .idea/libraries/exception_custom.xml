@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="exception-custom">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/40-exception/40-custom-exception/exception-custom.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="exception-throw">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/40-exception/30-throw-exception/exception-throw.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

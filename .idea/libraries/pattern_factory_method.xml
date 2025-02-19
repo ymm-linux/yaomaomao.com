@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="pattern-factory-method">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/10-creational/10-factory-method/pattern-factory-method.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="junit-test">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/110-unit-test/10-junit-test/junit-test.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

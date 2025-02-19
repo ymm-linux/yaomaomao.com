@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="pattern-template-method">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/30-behavioral/100-template-method/pattern-template-method.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

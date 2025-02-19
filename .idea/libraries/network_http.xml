@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="network-http">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/160-network/60-http/network-http.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

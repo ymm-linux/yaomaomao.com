@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="logging-slf4j">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/40-exception/100-slf4j-logback/logging-slf4j.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

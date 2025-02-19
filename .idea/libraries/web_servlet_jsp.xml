@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="web-servlet-jsp">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/210-web/60-mvc/web-servlet-jsp.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

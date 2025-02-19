@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="hello-koa">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/javascript/110-nodejs/70-web/10-koa/10-basic/hello-koa.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

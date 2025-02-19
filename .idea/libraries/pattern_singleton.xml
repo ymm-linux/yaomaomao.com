@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="pattern-singleton">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/10-creational/50-singleton/pattern-singleton.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

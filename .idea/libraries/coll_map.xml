@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="coll-map">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/80-collection/40-map/coll-map.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

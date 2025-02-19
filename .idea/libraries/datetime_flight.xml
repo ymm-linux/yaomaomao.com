@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="datetime-flight">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/100-datetime/40-zoned-datetime/datetime-flight.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

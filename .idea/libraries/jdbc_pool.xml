@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jdbc-pool">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/180-jdbc/60-pool/jdbc-pool.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-ioc-properties">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/10-ioc/60-properties/spring-ioc-properties.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

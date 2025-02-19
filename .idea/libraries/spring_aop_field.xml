@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-aop-field">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/20-aop/30-notice/spring-aop-field.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="springboot-hello">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/230-springboot/10-first-webapp/springboot-hello.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

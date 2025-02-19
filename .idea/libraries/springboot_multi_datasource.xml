@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="springboot-multi-datasource">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/230-springboot/80-disable-auto-config/springboot-multi-datasource.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

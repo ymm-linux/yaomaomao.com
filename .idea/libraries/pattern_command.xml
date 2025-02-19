@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="pattern-command">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/30-behavioral/20-command/pattern-command.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="network-smtp">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/160-network/40-send-email/network-smtp.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

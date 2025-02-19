@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="springboot-configuration">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/230-springboot/70-configuration/springboot-configuration.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

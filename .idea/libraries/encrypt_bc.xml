@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="encrypt-bc">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/130-security/30-bouncy-castle/encrypt-bc.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

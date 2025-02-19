@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="pattern-memento">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/30-behavioral/60-memento/pattern-memento.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="encrypt-rsasign">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/java/130-security/90-sign/encrypt-rsasign.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

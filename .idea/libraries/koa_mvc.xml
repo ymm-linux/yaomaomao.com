@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="koa-mvc">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/source/books/javascript/110-nodejs/70-web/10-koa/40-mvc/koa-mvc.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
