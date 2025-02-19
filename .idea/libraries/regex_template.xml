@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="regex-template">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/120-reg-exp/60-search-replace/regex-template.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

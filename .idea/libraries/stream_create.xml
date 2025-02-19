@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stream-create">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/190-functional/30-stream/10-create/stream-create.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

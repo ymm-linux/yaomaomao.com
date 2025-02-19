@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdbc-update">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/180-jdbc/30-update/jdbc-update.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

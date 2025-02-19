@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-data-mybatis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/30-database/60-mybatis/spring-data-mybatis.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

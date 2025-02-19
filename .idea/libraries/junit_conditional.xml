@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit-conditional">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/110-unit-test/40-conditional-test/junit-conditional.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

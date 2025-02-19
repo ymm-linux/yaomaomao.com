@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdbc-transaction">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/180-jdbc/40-tx/jdbc-transaction.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

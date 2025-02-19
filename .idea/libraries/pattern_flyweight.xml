@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pattern-flyweight">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/20-structural/60-flyweight/pattern-flyweight.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

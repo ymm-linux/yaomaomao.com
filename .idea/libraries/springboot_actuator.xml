@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springboot-actuator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/230-springboot/40-actuator/springboot-actuator.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

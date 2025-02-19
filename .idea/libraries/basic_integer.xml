@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="basic-integer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/20-quick-start/30-basic/30-integer/basic-integer.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

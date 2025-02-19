@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit-parameterized">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/110-unit-test/50-parameterized-test/junit-parameterized.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

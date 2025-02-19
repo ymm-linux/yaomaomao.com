@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-web-mvc-filter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/40-web/30-filter/spring-web-mvc-filter.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

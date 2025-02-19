@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="thread-completablefuture">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/140-threading/90-completable-future/thread-completablefuture.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

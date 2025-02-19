@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="thread-deadlock">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/140-threading/60-synchronize/20-dead-lock/thread-deadlock.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

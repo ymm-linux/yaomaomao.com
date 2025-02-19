@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-web-mvc-async">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/40-web/70-async/spring-web-mvc-async.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="thread-forkjoin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/140-threading/100-fork-join/thread-forkjoin.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

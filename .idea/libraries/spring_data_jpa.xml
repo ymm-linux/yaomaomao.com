@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-data-jpa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/30-database/50-jpa/spring-data-jpa.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

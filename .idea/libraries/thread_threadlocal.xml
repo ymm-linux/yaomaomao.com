@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="thread-threadlocal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/140-threading/110-thread-local/thread-threadlocal.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pattern-interpreter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/30-behavioral/30-interpreter/pattern-interpreter.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="encrypt-dh">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/130-security/70-dh/encrypt-dh.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

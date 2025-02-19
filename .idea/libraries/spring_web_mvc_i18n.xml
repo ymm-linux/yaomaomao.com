@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-web-mvc-i18n">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/40-web/60-i18n/spring-web-mvc-i18n.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

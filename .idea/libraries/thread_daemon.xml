@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="thread-daemon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/140-threading/50-daemon/thread-daemon.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

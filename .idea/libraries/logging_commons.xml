@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="logging-commons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/40-exception/80-commons-logging/logging-commons.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-integration-jms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/50-integration/20-jms/spring-integration-jms.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

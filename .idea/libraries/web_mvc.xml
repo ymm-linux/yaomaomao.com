@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="web-mvc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/210-web/70-mvc-adv/web-mvc.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springboot-filter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/230-springboot/90-filter/springboot-filter.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

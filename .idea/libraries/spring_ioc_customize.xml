@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-ioc-customize">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/10-ioc/40-customize/spring-ioc-customize.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

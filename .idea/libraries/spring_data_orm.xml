@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-data-orm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/30-database/70-orm/spring-data-orm.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

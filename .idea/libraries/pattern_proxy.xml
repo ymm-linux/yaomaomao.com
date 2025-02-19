@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pattern-proxy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/20-structural/70-proxy/pattern-proxy.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

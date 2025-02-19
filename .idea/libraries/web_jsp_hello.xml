@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="web-jsp-hello">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/210-web/50-jsp/web-jsp-hello.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

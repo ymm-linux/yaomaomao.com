@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pattern-iterator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/30-behavioral/40-iterator/pattern-iterator.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

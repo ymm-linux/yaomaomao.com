@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="thread-virtualthread">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/140-threading/120-virtual-thread/thread-virtualthread.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

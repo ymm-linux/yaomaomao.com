@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-ioc-conditional">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/10-ioc/70-conditional/spring-ioc-conditional.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

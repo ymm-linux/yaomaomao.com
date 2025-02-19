@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="web-servlet-embedded">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/210-web/30-servlet-dev/web-servlet-embedded.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

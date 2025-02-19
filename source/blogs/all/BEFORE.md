@@ -1,1 +1,0 @@
-../../books/git/BEFORE.md

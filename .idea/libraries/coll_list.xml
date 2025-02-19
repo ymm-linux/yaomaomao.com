@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="coll-list">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/80-collection/20-list/coll-list.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

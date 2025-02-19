@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="network-socket">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/160-network/20-tcp/network-socket.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

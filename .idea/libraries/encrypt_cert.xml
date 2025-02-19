@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="encrypt-cert">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/130-security/100-cert/encrypt-cert.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

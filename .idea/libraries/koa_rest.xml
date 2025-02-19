@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="koa-rest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/javascript/110-nodejs/70-web/10-koa/50-rest/koa-rest.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

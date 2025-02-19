@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="oop-package">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/30-oop/10-basic/90-package/oop-package.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

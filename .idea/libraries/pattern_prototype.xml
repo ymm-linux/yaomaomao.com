@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pattern-prototype">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/10-creational/40-prototype/pattern-prototype.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

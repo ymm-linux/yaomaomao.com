@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springboot-rabbitmq">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/230-springboot/100-integration/40-rabbitmq/springboot-rabbitmq.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

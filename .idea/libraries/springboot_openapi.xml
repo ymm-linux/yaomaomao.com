@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springboot-openapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/230-springboot/100-integration/10-open-api/springboot-openapi.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

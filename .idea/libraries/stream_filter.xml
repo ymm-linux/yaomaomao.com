@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stream-filter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/190-functional/30-stream/30-filter/stream-filter.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

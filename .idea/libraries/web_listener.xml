@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="web-listener">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/210-web/90-listener/web-listener.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

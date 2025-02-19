@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="simple-file-server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/javascript/110-nodejs/60-basic-modules/30-http/simple-file-server.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

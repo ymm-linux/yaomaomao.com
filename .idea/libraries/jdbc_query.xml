@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdbc-query">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/180-jdbc/20-query/jdbc-query.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

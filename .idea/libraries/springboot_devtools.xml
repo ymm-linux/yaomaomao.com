@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springboot-devtools">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/230-springboot/20-devtools/springboot-devtools.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

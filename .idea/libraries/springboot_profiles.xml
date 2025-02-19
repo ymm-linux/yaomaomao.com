@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springboot-profiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/230-springboot/50-profiles/springboot-profiles.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="coll-equals">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/80-collection/30-equals/coll-equals.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

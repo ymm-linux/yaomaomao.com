@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="reflect-field">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/50-reflection/20-field/reflect-field.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

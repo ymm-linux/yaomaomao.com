@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="web-http-server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/210-web/10-basic/web-http-server.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

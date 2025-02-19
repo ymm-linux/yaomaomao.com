@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pattern-visitor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/200-design-patterns/30-behavioral/110-visitor/pattern-visitor.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

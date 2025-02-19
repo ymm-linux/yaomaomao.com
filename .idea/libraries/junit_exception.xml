@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit-exception">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/110-unit-test/30-exception-test/junit-exception.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-aop-logging">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/20-aop/10-basic/spring-aop-logging.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-web-mvc-cors">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/40-web/50-cors/spring-web-mvc-cors.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

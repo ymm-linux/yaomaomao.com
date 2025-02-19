@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="network-datagram">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/160-network/30-udp/network-datagram.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

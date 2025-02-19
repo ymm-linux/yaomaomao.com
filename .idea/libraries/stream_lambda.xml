@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stream-lambda">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/190-functional/10-basic/stream-lambda.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

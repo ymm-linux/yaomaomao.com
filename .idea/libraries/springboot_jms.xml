@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springboot-jms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/230-springboot/100-integration/30-artemis/springboot-jms.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

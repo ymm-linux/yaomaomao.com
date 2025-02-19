@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-data-jdbc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/source/books/java/220-spring/30-database/10-jdbc/spring-data-jdbc.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
