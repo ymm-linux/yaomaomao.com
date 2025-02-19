@@ -394,3 +394,4 @@ _site_*/
 !source/**/*.zip
 !.gitignore
 !.gitsubmodules
+/.github/
